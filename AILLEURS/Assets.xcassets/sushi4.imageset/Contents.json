@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "E3D800D3-15BC-4787-A923-DE02D611D100_1_105_c.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
